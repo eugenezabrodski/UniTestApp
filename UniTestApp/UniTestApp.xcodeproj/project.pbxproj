@@ -16,6 +16,7 @@
 		6361370E29B3C01F006D3063 /* UniTestAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6361370D29B3C01F006D3063 /* UniTestAppTests.swift */; };
 		6361371829B3C01F006D3063 /* UniTestAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6361371729B3C01F006D3063 /* UniTestAppUITests.swift */; };
 		6361371A29B3C01F006D3063 /* UniTestAppUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6361371929B3C01F006D3063 /* UniTestAppUITestsLaunchTests.swift */; };
+		6361372729B3C07E006D3063 /* MathService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6361372629B3C07E006D3063 /* MathService.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		6361371329B3C01F006D3063 /* UniTestAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = UniTestAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		6361371729B3C01F006D3063 /* UniTestAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UniTestAppUITests.swift; sourceTree = "<group>"; };
 		6361371929B3C01F006D3063 /* UniTestAppUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UniTestAppUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		6361372629B3C07E006D3063 /* MathService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MathService.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 			isa = PBXGroup;
 			children = (
 				636136F629B3C01E006D3063 /* AppDelegate.swift */,
+				6361372629B3C07E006D3063 /* MathService.swift */,
 				636136F829B3C01E006D3063 /* SceneDelegate.swift */,
 				636136FA29B3C01E006D3063 /* ViewController.swift */,
 				636136FC29B3C01E006D3063 /* Main.storyboard */,
@@ -261,6 +264,7 @@
 				636136FB29B3C01E006D3063 /* ViewController.swift in Sources */,
 				636136F729B3C01E006D3063 /* AppDelegate.swift in Sources */,
 				636136F929B3C01E006D3063 /* SceneDelegate.swift in Sources */,
+				6361372729B3C07E006D3063 /* MathService.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
